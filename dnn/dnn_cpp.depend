@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1399924411 source:c:\uni\arbeit\ldv\dnn\dnn_cpp\ann.cpp
+	<iostream>
+	<algorithm>
+	"ANN.h"
+	"random.h"
+
+1399924449 c:\uni\arbeit\ldv\dnn\dnn_cpp\ann.h
+	<vector>
+	"Neuron.h"
+
+1399923695 c:\uni\arbeit\ldv\dnn\dnn_cpp\neuron.h
+	<functional>
+	<stdlib.h>
+	<math.h>
+
+1398431574 c:\uni\arbeit\ldv\dnn\dnn_cpp\random.h
+	<chrono>
+	<random>
+
+1399924717 source:c:\uni\arbeit\ldv\dnn\dnn_cpp\main.cpp
+	<iostream>
+	"ANN.h"
+
+1399923697 source:c:\uni\arbeit\ldv\dnn\dnn_cpp\neuron.cpp
+	"Neuron.h"
+
